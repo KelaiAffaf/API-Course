@@ -1,0 +1,11 @@
+.user{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
